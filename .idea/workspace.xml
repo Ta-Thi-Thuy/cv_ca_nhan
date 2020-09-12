@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69f9e0d0-d5bc-401f-855f-8ef11eb7c502" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/B.1_Form_Table.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/cau_truc_if-else-if/logic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/cau_truc_ifelse/ex01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/nam-nhuan/kt-năm-nhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/switch-case1/bai _1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/switch-case1/bai_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/switch-case1/bai_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/switch-case1/bai_3_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/toan_tu_3 _ngoi/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau_truc_dk/toan_tu_3 _ngoi/employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co_vua/.idea/co_vua.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co_vua/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co_vua/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co_vua/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co_vua1/chess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../co_vua1/chesscss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dang_ki_hoc_vien" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../form_don_gian" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../formgoogle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tao_cv_ca_nhan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tao_danh_sach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nguoi_dang_ki" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../survay_khach_hang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tao_bang_co_ban" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thoi_khoa_bieu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh_tao_form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh_tao_table/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh_tao_table/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh_tao_table/.idea/thuc_hanh_tao_table.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuc_hanh_tao_table/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hOTH34XLthl1ojxCuO7n0pU4B4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69f9e0d0-d5bc-401f-855f-8ef11eb7c502" name="Default Changelist" comment="" />
+      <created>1599881047410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599881047410</updated>
+      <workItem from="1599881048511" duration="2622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
